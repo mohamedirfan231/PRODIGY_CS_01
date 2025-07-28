@@ -16,3 +16,6 @@ This project implements the *Caesar Cipher* encryption and decryption using Pyth
 1. Clone the repository: git clone https://github.com/mohamedirfan231/PRODIGY_CS_01.git
 2. Navigate into the folder: cd PRODIGY_WD_01
 3. Run the script: CAESAR CIPHER.py
+
+> Make sure Python is installed. Download it here: https://www.python.org/downloads/
+
